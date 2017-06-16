@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://letoffstress.github.io/</link>
+    <link>https://letoffstress.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jun 2017 14:42:04 +0900</lastBuildDate>
     
-	<atom:link href="http://letoffstress.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://letoffstress.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://letoffstress.github.io/post/test/</link>
+      <link>https://letoffstress.github.io/post/test/</link>
       <pubDate>Fri, 16 Jun 2017 14:42:04 +0900</pubDate>
       
-      <guid>http://letoffstress.github.io/post/test/</guid>
+      <guid>https://letoffstress.github.io/post/test/</guid>
       <description>てすとぽすと・ω・</description>
     </item>
     
