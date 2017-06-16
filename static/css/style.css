@@ -1,2 +1,2 @@
-@import "./base.css";
-@import "./custom/style.css";
+@import url("./base.css");
+@import url("./custom/style.css");
