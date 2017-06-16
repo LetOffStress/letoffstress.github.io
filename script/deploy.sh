@@ -3,6 +3,8 @@
 set -eu
 
 # ユーザー情報
+git config user.name letoffstress
+git config user.email letoffxxx@gmail.com
 USER=letoffstress
 REPO=letoffstress.github.io
 
