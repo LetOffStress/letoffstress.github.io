@@ -7,6 +7,6 @@
        url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.ttf') format('truetype');*/
 }
 
-body {
+body, h1, h2, h3, h4, h5, h6 {
   font-family: 'mplus-1p-regular', Helvetica , "游ゴシック" , "Yu Gothic" , sans-serif;
 }
