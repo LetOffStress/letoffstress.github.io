@@ -3,9 +3,9 @@ language : bash
 script :
   - bash ./script/deploy.sh
 
-env:
-  global:
-    secure: "travis encryptで出てきた値"
+# env:
+#   global:
+#     secure: "travis encryptで出てきた値"
 
 
 
